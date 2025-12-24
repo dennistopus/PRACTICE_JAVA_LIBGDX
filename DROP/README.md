@@ -1,3 +1,5 @@
+我是個新手，下面都是原廠寫的，上傳GITHUB來練習版本控制。
+
 # Drop
 
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
